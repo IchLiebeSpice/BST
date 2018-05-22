@@ -1,3 +1,3 @@
 ﻿  BST.cpp
-g:\games\it done in vs\bst\bst\bst.cpp(38): warning C4715: FindMax: значение возвращается не при всех путях выполнения
+g:\games\it done in vs\bst\bst\bst.cpp(36): warning C4715: FindMax: значение возвращается не при всех путях выполнения
   BST.vcxproj -> G:\games\IT done in VS\BST\Debug\BST.exe
